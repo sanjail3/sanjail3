@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjail3&show_icons=true&locale=en" alt="sanjail3" /></p>
 
-<img src="https://camo.githubusercontent.com/25b661c11f732c1d76b456e34e446130f9d4c9cf9007def7178d9700fc3fd7a9/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6b697368616e72616a7075743233267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526617265613d74727565" alt="𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=sanjail3&theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width: 100%;">
+![Github Activity Graph](<url from step 6>/graph?username=<sanjail3>)
 
