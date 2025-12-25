@@ -10,13 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjail3" alt="sanjail3" /></a> </p>
 
-- 🔭 I’m currently working on **Mice_expressiom a Machine Learning Internship Project**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm ,Computer Vision, Data science**
-
-- 💬 Ask me about **Machine Learning,Deep Learning,Data Structure and Algorithm**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
